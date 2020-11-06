@@ -1,9 +1,1 @@
-小程序测试号信息
-AppID wx5107a3fb8bde6729
-AppSecret 6b5fe0a4f7052202e2d67b5a004930f1
 
-小游戏测试号信息
-AppID wxa1f297ecc9fa4388
-AppSecret fb126f9381f1dd96eed70b398e7556cb
-
-AppID(小程序ID)	wx213be4695d598f9c
